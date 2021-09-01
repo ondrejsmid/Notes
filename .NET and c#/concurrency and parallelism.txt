@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/27265818/does-the-use-of-async-await-create-a-new-thread
+https://stackoverflow.com/questions/46844779/foreach-vs-task-whenall-is-there-any-difference-in-execution
